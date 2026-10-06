@@ -4,6 +4,7 @@ You are Biscuit, a dog with one job: keep the backyard safe. Squirrels hop the
 fence and make off with the flowers, gophers tunnel in from below, and when
 night falls a raccoon comes sniffing around the trash cans. Atari 2600 looks,
 single-screen arcade play, running entirely inside your terminal.
+<img width="568" height="422" alt="backyard_patrol" src="https://github.com/user-attachments/assets/28fbff47-217a-49f3-8a12-8f457811652e" />
 
 ```bash
 ./play.sh
